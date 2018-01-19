@@ -17,12 +17,15 @@ Compare staging area with the working directory or a recent commit, use git diff
 4. What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-When you what do experiments with possible solution or add a localized version.
+When you do experiments with possible solution or add a localized version.
 
 
-How do the diagrams help you visualize the branch structure?
+5. How do the diagrams help you visualize the branch structure?
 
-What is the result of merging two branches together? Why do we represent it in
+They show the sequence of branches and their commint in a clear and orginized way.
+
+
+6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
