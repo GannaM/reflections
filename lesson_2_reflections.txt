@@ -31,5 +31,7 @@ the diagram the way we do?
 We merge the branches so that the final result contains properties of the both branches. 
 
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
+7. What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Automatic merging is good when two commits have changes in different areas. But when one and the same thing was changed more than once, then manual merge is necessary.
