@@ -28,5 +28,8 @@ They show the sequence of branches and their commint in a clear and orginized wa
 6. What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+We merge the branches so that the final result contains properties of the both branches. 
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
