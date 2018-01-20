@@ -16,10 +16,10 @@ use one instead of another?
     You create a Fork, when you are not allowed to edit the original repository, but would 
     like to commit some changes. 
 
-What is the benefit of having a copy of the last known state of the remote
+4. What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If you edit the latest version, it is easier to merge changes later.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
